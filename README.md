@@ -14,5 +14,3 @@ SHA1, SHA256, CRC32, Bzip2CRC, Adler32.
 
 Alice Zip provides checksum information support for a variety of formats.
 This ensures the integrity and security of files.
-
-![toppng com-alice-in-wonderland-vintage-rabbit-png-classic-white-rabbit-alice-in-wonderland-630x892](https://github.com/bohdan-stebelskyi/Alice-Zip/assets/144051247/7be793ea-2f1a-4a8c-9ca7-e1783e268329)
