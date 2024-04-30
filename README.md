@@ -14,3 +14,8 @@ SHA1, SHA256, CRC32, Bzip2CRC, Adler32.
 
 Alice Zip provides checksum information support for a variety of formats.
 This ensures the integrity and security of files.
+
+# Used Libraries:
+
+  - SharpZipLib: https://github.com/icsharpcode/SharpZipLib
+  - AsposeZip: https://reference.aspose.com/zip/
